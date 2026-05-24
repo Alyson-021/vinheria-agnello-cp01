@@ -36,7 +36,7 @@ Projeto desenvolvido para monitorar a luminosidade do ambiente da Vinheria Agnel
 <img src="imagens/circuito4.png" width="700">
 
 ## 🌐 Link Tinkercad
-[Vinheria Agnello CP01](https://www.tinkercad.com/things/btFfqNHcUAf-vinheria-agnello-cp01?sharecode=uExsvUWWXORfzxtCuPXyIf-XG4SsKc3zWGxi4rzeAXU)
+[Simulação Vinheria Agnello CP01](https://www.tinkercad.com/things/btFfqNHcUAf-vinheria-agnello-cp01?sharecode=uExsvUWWXORfzxtCuPXyIf-XG4SsKc3zWGxi4rzeAXU)
 
 ## 🌐 Vídeo
-cole aqui
+[Apresentação Vinheria Agnello](https://youtu.be/PJx4w3oX1yE)
